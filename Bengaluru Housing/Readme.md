@@ -1,5 +1,5 @@
-lets make a linkedin project on this project, Benaluru housing data
-## 📊 Dataset
+
+# Dataset
 
 - **Source**: [Kaggle - Bengaluru House Price Data](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
 - **Rows**: 13,000+
